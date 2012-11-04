@@ -1,0 +1,5 @@
+MDBM - Marshalling Database Manager
+The MIT License
+by Daniel P. Clark
+
+See DBM for usage details.  MDBM adds marshalling into and out of DBM.  So you can drop (almost) any object into it.
